@@ -35,8 +35,8 @@ Run in a terminal the following commands:
 Verify your installation
 ------------
 -In the BT editor: File->Load  <br/>
--Browse in the folder pacmanBT (the one you retrieved in step 2)  <br/>
--Select the file pacmantree.xml  <br/>
+-Browse in the folder pacman (the one you retrieved in step 2)  <br/>
+-Select the file Custom.xml  <br/>
 -A BT should appear in the editor, as in the picture below: <br/>
 
 ![alt tag](https://github.com/miccol/pacmanBT/blob/master/ScreenWindows.jpg)
