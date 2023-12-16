@@ -46,17 +46,6 @@ Verify your installation
 
 
 -Press the Play <img src="https://github.com/miccol/pacmanBT/blob/master/bt_editor/qt_nodeditor/resources/play.png" width="15" height="15"> icon. <br/>
--Enjoy
-
-
-Create your Behavior Tree
-------------
-
-Right Click in the editor to add a node. 
-Press Play to run the BT
-Enjoy
-
-NOTE: A BT must have the root node. It cannot have loose nodes (non-connected nodes).
 
 
 
