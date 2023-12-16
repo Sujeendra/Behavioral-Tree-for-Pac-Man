@@ -135,3 +135,25 @@ public:
 
     virtual QString name() const override { return QString("Chase"); }
 };
+
+
+class CustomNodeModel : public BehaviorTreeNodeModel
+{
+public:
+    CustomNodeModel():
+        BehaviorTreeNodeModel("Custom", NodeFactory::get().getActionParameterModel() )
+    { }
+    int BTType()
+    {
+        return BT::ACTION;
+    }
+    virtual ~CustomNodeModel() {}
+
+    virtual unsigned int  nPorts(PortType portType) const override
+    { return (portType==PortType::In) ? 1:0; }
+
+    virtual std::unique_ptr<NodeDataModel> clone() const override
+    { return  std::unique_ptr<NodeDataModel>( new CustomNodeModel ); }
+
+    virtual QString name() const override { return QString("Custom"); }
+};

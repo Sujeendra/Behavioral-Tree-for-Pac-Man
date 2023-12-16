@@ -58,6 +58,7 @@ MainWindow::MainWindow(QWidget *parent) :
     ret->registerModel<GreedyNodeModel>("Action");
     ret->registerModel<EscapeNodeModel>("Action");
     ret->registerModel<ChaseNodeModel>("Action");
+    ret->registerModel<CustomNodeModel>("Action");
     ret->registerModel<MoveToClosestDotNodeModel>("Action");
     ret->registerModel<KeepDistanceNodeModel>("Action");
 

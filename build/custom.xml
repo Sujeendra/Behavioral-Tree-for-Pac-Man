@@ -1,0 +1,18 @@
+<root>
+    <BehaviorTree>
+        <Fallback>
+            <Sequence>
+                <IsGhostClose/>
+                <Fallback>
+                    <Sequence>
+                        <IsClosestGhostScared/>
+                        <Chase/>
+                    </Sequence>
+                    <Escape/>
+                </Fallback>
+            </Sequence>
+            <Greedy/>
+        </Fallback>
+    </BehaviorTree>
+</root>
+

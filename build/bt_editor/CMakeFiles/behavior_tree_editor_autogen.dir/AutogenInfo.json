@@ -1,0 +1,111 @@
+{
+	"BUILD_DIR" : "/home/sujee/pacman/build/bt_editor/behavior_tree_editor_autogen",
+	"CMAKE_BINARY_DIR" : "/home/sujee/pacman/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/sujee/pacman/build/bt_editor",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/sujee/pacman/bt_editor",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_SOURCE_DIR" : "/home/sujee/pacman",
+	"HEADERS" : 
+	[
+		[
+			"/home/sujee/pacman/bt_editor/bt_editor/BehaviorTreeNodeModel.hpp",
+			"Mu",
+			"EFDBK3ICJA/moc_BehaviorTreeNodeModel.cpp"
+		],
+		[
+			"/home/sujee/pacman/bt_editor/bt_editor/NodeFactory.hpp",
+			"Mu",
+			"EFDBK3ICJA/moc_NodeFactory.cpp"
+		],
+		[
+			"/home/sujee/pacman/bt_editor/bt_editor/XmlParsers.hpp",
+			"Mu",
+			"EFDBK3ICJA/moc_XmlParsers.cpp"
+		],
+		[
+			"/home/sujee/pacman/bt_editor/bt_editor/mainwindow.h",
+			"Mu",
+			"EFDBK3ICJA/moc_mainwindow.cpp"
+		],
+		[
+			"/home/sujee/pacman/bt_editor/bt_editor/utils.h",
+			"Mu",
+			"EFDBK3ICJA/moc_utils.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/sujee/pacman/build/bt_editor/behavior_tree_editor_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/sujee/pacman/build/bt_editor/behavior_tree_editor_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"NODE_EDITOR_STATIC",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NO_DEBUG",
+		"QT_OPENGL_LIB",
+		"QT_WIDGETS_LIB",
+		"QT_XML_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/sujee/pacman/build/bt_editor",
+		"/home/sujee/pacman/bt_editor",
+		"/home/sujee/pacman/bt_editor/qt_nodeditor/include",
+		"/home/sujee/pacman/bt_editor/C:/Users/mcolledanchise/AppData/Local/Programs/Python/Python36-32/include",
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/x86_64-linux-gnu/qt5/QtWidgets",
+		"/usr/include/x86_64-linux-gnu/qt5/QtGui",
+		"/usr/include/x86_64-linux-gnu/qt5/QtOpenGL",
+		"/usr/include/x86_64-linux-gnu/qt5/QtXml",
+		"/usr/include/c++/9",
+		"/usr/include/x86_64-linux-gnu/c++/9",
+		"/usr/include/c++/9/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/9/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/sujee/pacman/build/bt_editor/behavior_tree_editor_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/home/sujee/pacman/build/bt_editor/CMakeFiles/behavior_tree_editor_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"SETTINGS_FILE" : "/home/sujee/pacman/build/bt_editor/CMakeFiles/behavior_tree_editor_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/sujee/pacman/bt_editor/bt_editor/BehaviorTreeNodeModel.cpp",
+			"Mu"
+		],
+		[ "/home/sujee/pacman/bt_editor/bt_editor/NodeFactory.cpp", "Mu" ],
+		[ "/home/sujee/pacman/bt_editor/bt_editor/XmlParsers.cpp", "Mu" ],
+		[ "/home/sujee/pacman/bt_editor/bt_editor/main.cpp", "Mu" ],
+		[ "/home/sujee/pacman/bt_editor/bt_editor/mainwindow.cpp", "Mu" ],
+		[ "/home/sujee/pacman/bt_editor/bt_editor/utils.cpp", "Mu" ]
+	],
+	"VERBOSITY" : 0
+}
