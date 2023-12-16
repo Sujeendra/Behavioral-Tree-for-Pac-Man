@@ -1,4 +1,4 @@
-# Install script for directory: /home/sujee/pacman/bt_editor
+# Install script for directory: /home/sujee/AI Github/pacman/bt_editor
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

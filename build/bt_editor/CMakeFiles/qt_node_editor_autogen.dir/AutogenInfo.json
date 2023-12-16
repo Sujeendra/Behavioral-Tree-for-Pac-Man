@@ -1,126 +1,126 @@
 {
-	"BUILD_DIR" : "/home/sujee/pacman/build/bt_editor/qt_node_editor_autogen",
-	"CMAKE_BINARY_DIR" : "/home/sujee/pacman/build",
-	"CMAKE_CURRENT_BINARY_DIR" : "/home/sujee/pacman/build/bt_editor",
-	"CMAKE_CURRENT_SOURCE_DIR" : "/home/sujee/pacman/bt_editor",
+	"BUILD_DIR" : "/home/sujee/AI Github/pacman/build/bt_editor/qt_node_editor_autogen",
+	"CMAKE_BINARY_DIR" : "/home/sujee/AI Github/pacman/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/sujee/AI Github/pacman/build/bt_editor",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/sujee/AI Github/pacman/bt_editor",
 	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
-	"CMAKE_SOURCE_DIR" : "/home/sujee/pacman",
+	"CMAKE_SOURCE_DIR" : "/home/sujee/AI Github/pacman",
 	"HEADERS" : 
 	[
 		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/Connection.hpp",
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/Connection.hpp",
 			"Mu",
 			"32WV5QAHOH/moc_Connection.cpp"
 		],
 		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/ConnectionBlurEffect.hpp",
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/ConnectionBlurEffect.hpp",
 			"Mu",
 			"32WV5QAHOH/moc_ConnectionBlurEffect.cpp"
 		],
 		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/ConnectionGeometry.hpp",
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/ConnectionGeometry.hpp",
 			"Mu",
 			"32WV5QAHOH/moc_ConnectionGeometry.cpp"
 		],
 		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/ConnectionGraphicsObject.hpp",
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/ConnectionGraphicsObject.hpp",
 			"Mu",
 			"32WV5QAHOH/moc_ConnectionGraphicsObject.cpp"
 		],
 		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/ConnectionPainter.hpp",
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/ConnectionPainter.hpp",
 			"Mu",
 			"32WV5QAHOH/moc_ConnectionPainter.cpp"
 		],
 		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/ConnectionState.hpp",
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/ConnectionState.hpp",
 			"Mu",
 			"32WV5QAHOH/moc_ConnectionState.cpp"
 		],
 		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/ConnectionStyle.hpp",
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/ConnectionStyle.hpp",
 			"Mu",
 			"32WV5QAHOH/moc_ConnectionStyle.cpp"
 		],
 		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/DataModelRegistry.hpp",
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/DataModelRegistry.hpp",
 			"Mu",
 			"32WV5QAHOH/moc_DataModelRegistry.cpp"
 		],
 		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/FlowItemInterface.hpp",
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/FlowItemInterface.hpp",
 			"Mu",
 			"32WV5QAHOH/moc_FlowItemInterface.cpp"
 		],
 		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/FlowScene.hpp",
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/FlowScene.hpp",
 			"Mu",
 			"32WV5QAHOH/moc_FlowScene.cpp"
 		],
 		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/FlowView.hpp",
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/FlowView.hpp",
 			"Mu",
 			"32WV5QAHOH/moc_FlowView.cpp"
 		],
 		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/FlowViewStyle.hpp",
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/FlowViewStyle.hpp",
 			"Mu",
 			"32WV5QAHOH/moc_FlowViewStyle.cpp"
 		],
 		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/Node.hpp",
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/Node.hpp",
 			"Mu",
 			"32WV5QAHOH/moc_Node.cpp"
 		],
 		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/NodeConnectionInteraction.hpp",
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/NodeConnectionInteraction.hpp",
 			"Mu",
 			"32WV5QAHOH/moc_NodeConnectionInteraction.cpp"
 		],
 		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/NodeDataModel.hpp",
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/NodeDataModel.hpp",
 			"Mu",
 			"32WV5QAHOH/moc_NodeDataModel.cpp"
 		],
 		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/NodeGeometry.hpp",
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/NodeGeometry.hpp",
 			"Mu",
 			"32WV5QAHOH/moc_NodeGeometry.cpp"
 		],
 		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/NodeGraphicsObject.hpp",
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/NodeGraphicsObject.hpp",
 			"Mu",
 			"32WV5QAHOH/moc_NodeGraphicsObject.cpp"
 		],
 		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/NodePainter.hpp",
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/NodePainter.hpp",
 			"Mu",
 			"32WV5QAHOH/moc_NodePainter.cpp"
 		],
 		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/NodeState.hpp",
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/NodeState.hpp",
 			"Mu",
 			"32WV5QAHOH/moc_NodeState.cpp"
 		],
 		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/NodeStyle.hpp",
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/NodeStyle.hpp",
 			"Mu",
 			"32WV5QAHOH/moc_NodeStyle.cpp"
 		],
 		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/Properties.hpp",
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/Properties.hpp",
 			"Mu",
 			"32WV5QAHOH/moc_Properties.cpp"
 		],
 		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/StyleCollection.hpp",
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/StyleCollection.hpp",
 			"Mu",
 			"32WV5QAHOH/moc_StyleCollection.cpp"
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "/home/sujee/pacman/build/bt_editor/qt_node_editor_autogen/include",
-	"MOC_COMPILATION_FILE" : "/home/sujee/pacman/build/bt_editor/qt_node_editor_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "/home/sujee/AI Github/pacman/build/bt_editor/qt_node_editor_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/sujee/AI Github/pacman/build/bt_editor/qt_node_editor_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : 
 	[
 		"NODE_EDITOR_STATIC",
@@ -140,10 +140,10 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"/home/sujee/pacman/build/bt_editor",
-		"/home/sujee/pacman/bt_editor",
-		"/home/sujee/pacman/bt_editor/qt_nodeditor/include",
-		"/home/sujee/pacman/bt_editor/C:/Users/mcolledanchise/AppData/Local/Programs/Python/Python36-32/include",
+		"/home/sujee/AI Github/pacman/build/bt_editor",
+		"/home/sujee/AI Github/pacman/bt_editor",
+		"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/include",
+		"/home/sujee/AI Github/pacman/bt_editor/C:/Users/mcolledanchise/AppData/Local/Programs/Python/Python36-32/include",
 		"/usr/include/x86_64-linux-gnu/qt5",
 		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
 		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
@@ -170,80 +170,104 @@
 		"-c",
 		"/usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "/home/sujee/pacman/build/bt_editor/qt_node_editor_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "/home/sujee/AI Github/pacman/build/bt_editor/qt_node_editor_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 4,
-	"PARSE_CACHE_FILE" : "/home/sujee/pacman/build/bt_editor/CMakeFiles/qt_node_editor_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "/home/sujee/AI Github/pacman/build/bt_editor/CMakeFiles/qt_node_editor_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
 	"QT_UIC_EXECUTABLE" : "",
 	"QT_VERSION_MAJOR" : 5,
-	"SETTINGS_FILE" : "/home/sujee/pacman/build/bt_editor/CMakeFiles/qt_node_editor_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "/home/sujee/AI Github/pacman/build/bt_editor/CMakeFiles/qt_node_editor_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
-		[ "/home/sujee/pacman/bt_editor/qt_nodeditor/src/Connection.cpp", "Mu" ],
 		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/ConnectionBlurEffect.cpp",
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/Connection.cpp",
 			"Mu"
 		],
 		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/ConnectionGeometry.cpp",
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/ConnectionBlurEffect.cpp",
 			"Mu"
 		],
 		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/ConnectionGraphicsObject.cpp",
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/ConnectionGeometry.cpp",
 			"Mu"
 		],
 		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/ConnectionPainter.cpp",
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/ConnectionGraphicsObject.cpp",
 			"Mu"
 		],
 		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/ConnectionState.cpp",
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/ConnectionPainter.cpp",
 			"Mu"
 		],
 		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/ConnectionStyle.cpp",
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/ConnectionState.cpp",
 			"Mu"
 		],
 		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/DataModelRegistry.cpp",
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/ConnectionStyle.cpp",
 			"Mu"
 		],
 		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/FlowItemInterface.cpp",
-			"Mu"
-		],
-		[ "/home/sujee/pacman/bt_editor/qt_nodeditor/src/FlowScene.cpp", "Mu" ],
-		[ "/home/sujee/pacman/bt_editor/qt_nodeditor/src/FlowView.cpp", "Mu" ],
-		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/FlowViewStyle.cpp",
-			"Mu"
-		],
-		[ "/home/sujee/pacman/bt_editor/qt_nodeditor/src/Node.cpp", "Mu" ],
-		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/NodeConnectionInteraction.cpp",
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/DataModelRegistry.cpp",
 			"Mu"
 		],
 		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/NodeDataModel.cpp",
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/FlowItemInterface.cpp",
 			"Mu"
 		],
 		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/NodeGeometry.cpp",
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/FlowScene.cpp",
 			"Mu"
 		],
 		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/NodeGraphicsObject.cpp",
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/FlowView.cpp",
 			"Mu"
 		],
-		[ "/home/sujee/pacman/bt_editor/qt_nodeditor/src/NodePainter.cpp", "Mu" ],
-		[ "/home/sujee/pacman/bt_editor/qt_nodeditor/src/NodeState.cpp", "Mu" ],
-		[ "/home/sujee/pacman/bt_editor/qt_nodeditor/src/NodeStyle.cpp", "Mu" ],
-		[ "/home/sujee/pacman/bt_editor/qt_nodeditor/src/Properties.cpp", "Mu" ],
 		[
-			"/home/sujee/pacman/bt_editor/qt_nodeditor/src/StyleCollection.cpp",
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/FlowViewStyle.cpp",
+			"Mu"
+		],
+		[
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/Node.cpp",
+			"Mu"
+		],
+		[
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/NodeConnectionInteraction.cpp",
+			"Mu"
+		],
+		[
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/NodeDataModel.cpp",
+			"Mu"
+		],
+		[
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/NodeGeometry.cpp",
+			"Mu"
+		],
+		[
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/NodeGraphicsObject.cpp",
+			"Mu"
+		],
+		[
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/NodePainter.cpp",
+			"Mu"
+		],
+		[
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/NodeState.cpp",
+			"Mu"
+		],
+		[
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/NodeStyle.cpp",
+			"Mu"
+		],
+		[
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/Properties.cpp",
+			"Mu"
+		],
+		[
+			"/home/sujee/AI Github/pacman/bt_editor/qt_nodeditor/src/StyleCollection.cpp",
 			"Mu"
 		]
 	],

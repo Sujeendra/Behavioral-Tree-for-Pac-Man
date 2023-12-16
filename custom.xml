@@ -11,7 +11,7 @@
                     <Escape/>
                 </Fallback>
             </Sequence>
-            <Greedy/>
+            <Custom/>
         </Fallback>
     </BehaviorTree>
 </root>

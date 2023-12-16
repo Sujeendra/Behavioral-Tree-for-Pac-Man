@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/sujee/pacman
+CMAKE_SOURCE_DIR = "/home/sujee/AI Github/pacman"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/sujee/pacman/build
+CMAKE_BINARY_DIR = "/home/sujee/AI Github/pacman/build"
 
 # Utility rule file for qt_node_editor_autogen.
 
@@ -54,8 +54,8 @@ CMAKE_BINARY_DIR = /home/sujee/pacman/build
 include bt_editor/CMakeFiles/qt_node_editor_autogen.dir/progress.make
 
 bt_editor/CMakeFiles/qt_node_editor_autogen:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/sujee/pacman/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target qt_node_editor"
-	cd /home/sujee/pacman/build/bt_editor && /usr/bin/cmake -E cmake_autogen /home/sujee/pacman/build/bt_editor/CMakeFiles/qt_node_editor_autogen.dir/AutogenInfo.json ""
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir="/home/sujee/AI Github/pacman/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target qt_node_editor"
+	cd "/home/sujee/AI Github/pacman/build/bt_editor" && /usr/bin/cmake -E cmake_autogen "/home/sujee/AI Github/pacman/build/bt_editor/CMakeFiles/qt_node_editor_autogen.dir/AutogenInfo.json" ""
 
 qt_node_editor_autogen: bt_editor/CMakeFiles/qt_node_editor_autogen
 qt_node_editor_autogen: bt_editor/CMakeFiles/qt_node_editor_autogen.dir/build.make
@@ -68,10 +68,10 @@ bt_editor/CMakeFiles/qt_node_editor_autogen.dir/build: qt_node_editor_autogen
 .PHONY : bt_editor/CMakeFiles/qt_node_editor_autogen.dir/build
 
 bt_editor/CMakeFiles/qt_node_editor_autogen.dir/clean:
-	cd /home/sujee/pacman/build/bt_editor && $(CMAKE_COMMAND) -P CMakeFiles/qt_node_editor_autogen.dir/cmake_clean.cmake
+	cd "/home/sujee/AI Github/pacman/build/bt_editor" && $(CMAKE_COMMAND) -P CMakeFiles/qt_node_editor_autogen.dir/cmake_clean.cmake
 .PHONY : bt_editor/CMakeFiles/qt_node_editor_autogen.dir/clean
 
 bt_editor/CMakeFiles/qt_node_editor_autogen.dir/depend:
-	cd /home/sujee/pacman/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/sujee/pacman /home/sujee/pacman/bt_editor /home/sujee/pacman/build /home/sujee/pacman/build/bt_editor /home/sujee/pacman/build/bt_editor/CMakeFiles/qt_node_editor_autogen.dir/DependInfo.cmake --color=$(COLOR)
+	cd "/home/sujee/AI Github/pacman/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/sujee/AI Github/pacman" "/home/sujee/AI Github/pacman/bt_editor" "/home/sujee/AI Github/pacman/build" "/home/sujee/AI Github/pacman/build/bt_editor" "/home/sujee/AI Github/pacman/build/bt_editor/CMakeFiles/qt_node_editor_autogen.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : bt_editor/CMakeFiles/qt_node_editor_autogen.dir/depend
 
