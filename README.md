@@ -6,7 +6,7 @@ Installation in Unix
 
 2) Download the repository:
 
-`git clone `
+`git clone https://github.com/Sujeendra/Behavioral-Tree-for-Pac-Man.git`
 
 3) Build the Software:
 
