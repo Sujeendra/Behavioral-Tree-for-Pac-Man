@@ -12,6 +12,7 @@ Installation in Unix
 
 Run in a terminal the following commands:
 `cd pacman` <br/>
+`delete the build folder before building`
 `sudo rm -r build` <br/>
 `mkdir build` <br/>
 `cd build` <br/>
@@ -22,7 +23,7 @@ Run in Unix
 ------------
 
 Run in a terminal the following commands:
-
+`you should be in the build folder to execute this`
 `./behavior_tree_editor`
 
 
