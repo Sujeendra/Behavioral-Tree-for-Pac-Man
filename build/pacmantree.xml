@@ -3,9 +3,15 @@
         <Fallback>
             <Sequence>
                 <IsGhostClose/>
-                <Escape/>
+                <Fallback>
+                    <Sequence>
+                        <IsClosestGhostScared/>
+                        <Chase/>
+                    </Sequence>
+                    <Escape/>
+                </Fallback>
             </Sequence>
-            <Greedy/>
+            <Custom/>
         </Fallback>
     </BehaviorTree>
 </root>
