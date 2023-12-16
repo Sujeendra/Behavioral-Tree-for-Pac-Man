@@ -39,13 +39,13 @@ Verify your installation
 -Select the file Custom.xml  <br/>
 -A BT should appear in the editor, as in the picture below: <br/>
 
-![alt tag](https://github.com/miccol/pacmanBT/blob/master/ScreenWindows.jpg)
+![alt tag](Screenwindows.png)
 
 
 
 
 
--Press the Play <img src="https://github.com/miccol/pacmanBT/blob/master/bt_editor/qt_nodeditor/resources/play.png" width="15" height="15"> icon. <br/>
+-Press the Play <img src="play.png" width="15" height="15"> icon. <br/>
 
 
 
