@@ -58,11 +58,16 @@ class Greedy(ActionNode):
     def scoreEvaluation(self,state):
         return state.getScore()
 
+"""
+Custom code deep search agent
+a deep search algorithm that attempts to find the best possible path given an evaluation function.
+
+"""
 class Custom(ActionNode):
 
     def __init__(self,name):
         ActionNode.__init__(self,name)
-        self.index = 0  # Pacman is always agent index 0
+        self.index = 0 
         evalFn = 'evaluationFunction'
         self.evaluationFunction = util.lookup(evalFn, globals())
         self.depth = 6
@@ -105,11 +110,6 @@ class Custom(ActionNode):
         max_action = max(action_scores)
         max_indices = [index for index in range(len(action_scores)) if action_scores[index] == max_action]
         chosenIndex = random.choice(max_indices)
-
-        """print(possibleActions)
-        print(action_scores)
-        input()"""
-
         return possibleActions[chosenIndex]
 
 
