@@ -1,6 +1,6 @@
 # Artificial Intelligence - 1  Course project (University of Minnesota, twin cities)
 
-## Code changes comapared to original code [Source](https://github.com/btirai/pacman)
+## Code changes compared to original code [Source](https://github.com/btirai/pacman)
 [Compare Commit changes Link](https://github.com/Sujeendra/Behavioral-Tree-for-Pac-Man/compare/5dcf290..ac6a2c1)
 
 ##### Core files edited to implement custom action nodes and Deepsearch custom agents are as follows:
