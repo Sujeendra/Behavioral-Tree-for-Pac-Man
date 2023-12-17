@@ -6,6 +6,14 @@
 ![alt tag](ai-3.png)
 
 
+## How to change the configuration?
+```
+Navigate to pacman/bt_editor/bt_editor/utils.cpp
+edit runTree method and in UNIX section change the python3 pacman.py -n 3 -l trickyClassic -p BTAgent
+for example trickyCLassic can be changed into smallClassic, mediumClassic etc
+```
+
+
 Installation in Unix
 ------------
 1) Install Dependencies:
