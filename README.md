@@ -1,7 +1,7 @@
 ## Code changes comapared to original code [Source](https://github.com/btirai/pacman)
 [Compare Commit changes Link](https://github.com/Sujeendra/Behavioral-Tree-for-Pac-Man/compare/ac6a2c1..5dcf290)
 
-#####Core files edited to implement custom action nodes and Deepsearch custom agents are as follows:
+##### Core files edited to implement custom action nodes and Deepsearch custom agents are as follows:
 
 - ActionNodeModelPacman.hpp
 - mainwindow.cpp
