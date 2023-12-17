@@ -8,10 +8,12 @@
 - ActionNodeModelPacman.hpp
 - mainwindow.cpp
 - utils.cpp
-- PacmanActionNodes.py
-- PacmanAgents.py
-- pacman.py
-- util.py
+  
+  Note* not within build folder
+- pacman_game/bt/PacmanActionNodes.py 
+- pacman_game/bt/PacmanAgents.py
+- pacman_game/pacman.py
+- pacman_game/util.py
 
 ## Result
 
